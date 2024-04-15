@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P.09 MVC - Formularios con Razor y HTML Helper Parte 2", "P.09 MVC - Formularios con Razor y HTML Helper Parte 2\P.09 MVC - Formularios con Razor y HTML Helper Parte 2.csproj", "{08FA0D34-16D1-4B1E-954B-DCE95BF22FC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08FA0D34-16D1-4B1E-954B-DCE95BF22FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FA0D34-16D1-4B1E-954B-DCE95BF22FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FA0D34-16D1-4B1E-954B-DCE95BF22FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FA0D34-16D1-4B1E-954B-DCE95BF22FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8C07A26-01EA-4F9C-9B50-D901B780EFB3}
+	EndGlobalSection
+EndGlobal
